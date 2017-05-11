@@ -1,0 +1,38 @@
+#sidebar {
+  width: 10%;
+  height: 3000px;
+  float: left;
+}
+#logo {
+  width: 100%
+}
+ul {
+  list-style-type: none;
+}
+.container {
+  width: 100%
+}
+
+.jumbotron {
+  float: right;
+  width: 88%
+}
+
+.panel1 {
+  color: blue;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.panel2 {
+  color: red;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+
+.bottom {
+  color: green;
+}
